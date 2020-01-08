@@ -1,0 +1,16 @@
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.deps.json
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.runtimeconfig.json
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.runtimeconfig.dev.json
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.dll
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.pdb
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csprojAssemblyReference.cache
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CoreCompileInputs.cache
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfoInputs.cache
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.AssemblyInfo.cs
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.dll
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.pdb
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.Interface.dll
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTop.Lib.dll
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTop.Lib.pdb
+D:\GitHub\FullStack\Secao01\GameTOP\bin\Debug\netcoreapp2.1\GameTOP.Interface.pdb
+D:\GitHub\FullStack\Secao01\GameTOP\obj\Debug\netcoreapp2.1\GameTOP.csproj.CopyComplete

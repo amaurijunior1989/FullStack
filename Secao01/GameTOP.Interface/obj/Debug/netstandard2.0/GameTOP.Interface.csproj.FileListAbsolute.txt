@@ -1,0 +1,9 @@
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.deps.json
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csprojAssemblyReference.cache
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csproj.CoreCompileInputs.cache
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfoInputs.cache
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfo.cs
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.dll
+D:\GitHub\FullStack\Secao01\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.pdb
